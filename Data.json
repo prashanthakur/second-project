@@ -1,0 +1,258 @@
+[
+    {
+        "id":1,
+        "name":"DevOps Certification Training Course",
+        "category_id":1,
+        "price":17690,
+        "rating":4.5,
+        "enrolled":"98k+ enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":2,
+        "name":"AWS Certified DevOps Engineer Training",
+        "category_id":1,
+        "price":20000,
+        "rating":4.3,
+        "enrolled":"4k+ enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":3,
+        "name":"Kubernetes Certification Training Course",
+        "category_id":1,
+        "price":22495,
+        "rating":4.1,
+        "enrolled":"5k+ enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":4,
+        "name":"Docker Certification Training",
+        "category_id":1,
+        "price":15299,
+        "rating":4.3,
+        "enrolled":"6k+ enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":5,
+        "name":"Continuous Integration with Jenkins Certification Training",
+        "category_id":1,
+        "price":7600,
+        "rating":4.9,
+        "enrolled":"9k+ enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":6,
+        "name":"Git and Github",
+        "category_id":1,
+        "price":7690,
+        "rating":4.1,
+        "enrolled":"4k+ enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":7,
+        "name":"PMP® Certification Training Course",
+        "category_id":2,
+        "price":13999,
+        "rating":4.1,
+        "enrolled":"44k+ enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":8,
+        "name":"Certified Scrum Master Training",
+        "category_id":2,
+        "price":23999,
+        "rating":4.2,
+        "enrolled":"3k+ enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":9,
+        "name":"PMI® Agile Certified Practitioner Training",
+        "category_id":2,
+        "price":7199,
+        "rating":4.1,
+        "enrolled":"6k+ enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":10,
+        "name":"PRINCE2® Foundation & Practitioner Certification ",
+        "category_id":2,
+        "price":49999,
+        "rating":4.2,
+        "enrolled":"8k+ enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":11,
+        "name":"Professional Scrum Master (PSM) Certificatio",
+        "category_id":2,
+        "price":23999,
+        "rating":4,
+        "enrolled":"452 enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":12,
+        "name":"CSPO® Certification Training",
+        "category_id":2,
+        "price":21999,
+        "rating":4.2,
+        "enrolled":"511 enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":13,
+        "name":"Big Data Hadoop Certification Training",
+        "category_id":3,
+        "price":17690,
+        "rating":4.9,
+        "enrolled":"164k+ enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":14,
+        "name":"Apache Spark and Scala Certification Training",
+        "category_id":3,
+        "price":17690,
+        "rating":4.5,
+        "enrolled":"28k+ enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":15,
+        "name":"Python Spark Caertification Training using Pyspark",
+        "category_id":3,
+        "price":17690,
+        "rating":5,
+        "enrolled":"7k+ enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":16,
+        "name":"Apache Kafka Certification Training",
+        "category_id":3,
+        "price":17690,
+        "rating":4.4,
+        "enrolled":"7k+ enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":17,
+        "name":"Splunk Training & Certification Training",
+        "category_id":3,
+        "price":17690,
+        "rating":4.5,
+        "enrolled":"8k+ enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":18,
+        "name":"Hadoop Administration Certification Training",
+        "category_id":3,
+        "price":17690,
+        "rating":4.5,
+        "enrolled":"25k+ enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":19,
+        "name":"ELK Stack Training & Certification",
+        "category_id":3,
+        "price":17690,
+        "rating":4.3,
+        "enrolled":"2k+ enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":20,
+        "name":"Comprehensive Hive Certification Training",
+        "category_id":3,
+        "price":17690,
+        "rating":4.4,
+        "enrolled":"2k+ enrolled learners",
+        "type":"weekend/weekdays"
+    },
+    {
+        "id":21,
+        "name":"Mastering Apache Ambari Certification Training",
+        "category_id":3,
+        "price":17690,
+        "rating":4.2,
+        "enrolled":"1k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Selfpaced"
+    },
+    {
+        "id":22,
+        "name":"Apache Solar Certification Training",
+        "category_id":3,
+        "price":17690,
+        "rating":4,
+        "enrolled":"7k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Selfpaced"
+    },
+    {
+        "id":23,
+        "name":"Comprehensive Pig Certification Training",
+        "category_id":3,
+        "price":17690,
+        "rating":4.5,
+        "enrolled":"1k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Selfpaced"
+    },
+    {
+        "id":24,
+        "name":"Comprehensive HBase Certification Training",
+        "category_id":3,
+        "price":17690,
+        "rating":4.1,
+        "enrolled":"1k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Selfpaced"
+    },
+    {
+        "id":24,
+        "name":"MapReduce Design Patterns Certification Training",
+        "category_id":3,
+        "price":17690,
+        "rating":4.5,
+        "enrolled":"1k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Selfpaced"
+    },
+    {
+        "id":25,
+        "name":"Comprehensive MapReduce Certification Training",
+        "category_id":3,
+        "price":17690,
+        "rating":4.1,
+        "enrolled":"2k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Selfpaced"
+    },
+    {
+        "id":26,
+        "name":"Apache Storm Certification Training",
+        "category_id":3,
+        "price":17690,
+        "rating":4,
+        "enrolled":"6k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Selfpaced"
+    },
+
+
+    
+
+
+
+]

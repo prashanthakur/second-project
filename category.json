@@ -1,0 +1,70 @@
+[
+    {
+        "id":1,
+        "category":"DevOps"
+    },
+    {
+        "id":2,
+        "category":"Project Management and Methodologies"
+    },
+    {
+        "id":3,
+        "category":"Bigdata"
+    },
+    {
+        "id":4,
+        "category":"Programming and Frameworks"
+    },
+    {
+        "id":5,
+        "category":"Cloud Computing"
+    },
+    {
+        "id":6,
+        "category":"BI and Visualization"
+    },
+    {
+        "id":7,
+        "category":"Software Testing"
+    },
+    {
+        "id":8,
+        "category":"Frontend Development"
+    },
+    {
+        "id":9,
+        "category":"Digital Marketing"
+    },
+    {
+        "id":10,
+        "category":"Artificial Intelligence"
+    },
+    {
+        "id":11,
+        "category":"Cyber Security"
+    },
+    {
+        "id":12,
+        "category":"Robotic Process Automation"
+    },
+    {
+        "id":13,
+        "category":"Data Warehousing and ETL"
+    },
+    {
+        "id":14,
+        "category":"Mobile Development"
+    },
+    {
+        "id":15,
+        "category":"Databases"
+    },
+    {
+        "id":16,
+        "category":"Blockchain"
+    },
+    {
+        "id":17,
+        "category":"Operating Systems"
+    }
+]
