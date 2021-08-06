@@ -220,7 +220,7 @@
         "learningType":"Selfpaced"
     },
     {
-        "id":24,
+        "id":25,
         "name":"MapReduce Design Patterns Certification Training",
         "category_id":3,
         "price":17690,
@@ -230,7 +230,7 @@
         "learningType":"Selfpaced"
     },
     {
-        "id":25,
+        "id":26,
         "name":"Comprehensive MapReduce Certification Training",
         "category_id":3,
         "price":17690,
@@ -240,12 +240,82 @@
         "learningType":"Selfpaced"
     },
     {
-        "id":26,
+        "id":27,
         "name":"Apache Storm Certification Training",
         "category_id":3,
         "price":17690,
         "rating":4,
         "enrolled":"6k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Selfpaced"
+    },
+    {
+        "id":28,
+        "name":"Apache Storm Certification Training",
+        "category_id":3,
+        "price":17690,
+        "rating":4,
+        "enrolled":"6k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Selfpaced"
+    },
+    {
+        "id":29,
+        "name":"Java Certification Training Course",
+        "category_id":4,
+        "price":17690,
+        "rating":4.5,
+        "enrolled":"49k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Live Class"
+    },
+    {
+        "id":30,
+        "name":"Full Stack Web Development Internship Program",
+        "category_id":4,
+        "price":17690,
+        "rating":4.7,
+        "enrolled":"2k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Live Class"
+    },
+    {
+        "id":31,
+        "name":"Spring Framework Certification Training",
+        "category_id":4,
+        "price":17690,
+        "rating":4.1,
+        "enrolled":"9k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Live Class"
+    },
+    {
+        "id":32,
+        "name":"Python Scripting Certification Training",
+        "category_id":4,
+        "price":17690,
+        "rating":4.3,
+        "enrolled":"10k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Selfpaced"
+    },
+    {
+        "id":33,
+        "name":"Microsoft .NET Framework Certification Training",
+        "category_id":4,
+        "price":17690,
+        "rating":4.3,
+        "enrolled":"4k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Selfpaced"
+    },
+    {
+        "id":32,
+        "name":"Advanced Java Certification Training",
+        "category_id":4,
+        "price":17690,
+        "rating":4.4,
+        "enrolled":"4k+ enrolled learners",
         "type":"weekend/weekdays",
         "learningType":"Selfpaced"
     },
