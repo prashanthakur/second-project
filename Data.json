@@ -25,7 +25,7 @@
         "category_id":1,
         "price":22495,
         "rating":4.1,
-        "thumb":"https://i.ibb.co/37Y3BqT/image-search-1628323255386.jpg"
+        "thumb":"https://i.ibb.co/37Y3BqT/image-search-1628323255386.jpg",
         "enrolled":"5k+ enrolled learners",
         "type":"weekend/weekdays"
     },
@@ -45,6 +45,7 @@
         "category_id":1,
         "price":7600,
         "rating":4.9,
+        "thumb":"https://i.ibb.co/jJw4Syc/image-search-1628323410530.jpg",
         "enrolled":"9k+ enrolled learners",
         "type":"weekend/weekdays"
     },
@@ -54,6 +55,7 @@
         "category_id":1,
         "price":7690,
         "rating":4.1,
+        "thumb":"https://i.ibb.co/4JpZckN/image-search-1628323549947.jpg",
         "enrolled":"4k+ enrolled learners",
         "type":"weekend/weekdays"
     },
@@ -63,6 +65,7 @@
         "category_id":2,
         "price":13999,
         "rating":4.1,
+        "thumb":"https://i.ibb.co/HYyYwKJ/image-search-1628323677803.png",
         "enrolled":"44k+ enrolled learners",
         "type":"weekend/weekdays"
     },
@@ -72,6 +75,7 @@
         "category_id":2,
         "price":23999,
         "rating":4.2,
+        "thumb":"https://i.ibb.co/d6pkpk3/image-search-1628323757293.jpg",
         "enrolled":"3k+ enrolled learners",
         "type":"weekend/weekdays"
     },
@@ -81,6 +85,7 @@
         "category_id":2,
         "price":7199,
         "rating":4.1,
+        "thumb":"https://i.ibb.co/VVhZc2Y/image-search-1628323821599.png",
         "enrolled":"6k+ enrolled learners",
         "type":"weekend/weekdays"
     },
@@ -90,6 +95,7 @@
         "category_id":2,
         "price":49999,
         "rating":4.2,
+        "thumb":"https://i.ibb.co/K2kqCWm/image-search-1628323919682.png",
         "enrolled":"8k+ enrolled learners",
         "type":"weekend/weekdays"
     },
@@ -99,6 +105,7 @@
         "category_id":2,
         "price":23999,
         "rating":4,
+        "thumb":"https://i.ibb.co/y5nvXwN/image-search-1628323891312.png",
         "enrolled":"452 enrolled learners",
         "type":"weekend/weekdays"
     },
@@ -108,6 +115,7 @@
         "category_id":2,
         "price":21999,
         "rating":4.2,
+        "thumb":"https://i.ibb.co/7C8Q68b/image-search-1628323947547.png",
         "enrolled":"511 enrolled learners",
         "type":"weekend/weekdays"
     },
