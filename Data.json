@@ -7,7 +7,8 @@
         "rating":4.5,
 		"thumb":"https://i.ibb.co/Ry9wy4Q/image-search-1628323234993.png",
         "enrolled":"98k+ enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Live Class"
     },
     {
         "id":2,
@@ -17,7 +18,8 @@
         "rating":4.3,
         "thumb":"https://i.ibb.co/B2cLmgq/image-search-1628323362650.jpg",
         "enrolled":"4k+ enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Live Class"
     },
     {
         "id":3,
@@ -27,7 +29,8 @@
         "rating":4.1,
         "thumb":"https://i.ibb.co/37Y3BqT/image-search-1628323255386.jpg",
         "enrolled":"5k+ enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Live Class"
     },
     {
         "id":4,
@@ -37,7 +40,8 @@
         "rating":4.3,
         "thumb":"https://i.ibb.co/zXkShcm/image-search-1628323283618.png",
         "enrolled":"6k+ enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Live Class"
     },
     {
         "id":5,
@@ -47,7 +51,8 @@
         "rating":4.9,
         "thumb":"https://i.ibb.co/jJw4Syc/image-search-1628323410530.jpg",
         "enrolled":"9k+ enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Selfpaced"
     },
     {
         "id":6,
@@ -57,7 +62,8 @@
         "rating":4.1,
         "thumb":"https://i.ibb.co/4JpZckN/image-search-1628323549947.jpg",
         "enrolled":"4k+ enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Selfpaced"
     },
     {
         "id":7,
@@ -67,7 +73,8 @@
         "rating":4.1,
         "thumb":"https://i.ibb.co/HYyYwKJ/image-search-1628323677803.png",
         "enrolled":"44k+ enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Live Class"
     },
     {
         "id":8,
@@ -77,7 +84,8 @@
         "rating":4.2,
         "thumb":"https://i.ibb.co/d6pkpk3/image-search-1628323757293.jpg",
         "enrolled":"3k+ enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Live Class"
     },
     {
         "id":9,
@@ -87,7 +95,8 @@
         "rating":4.1,
         "thumb":"https://i.ibb.co/VVhZc2Y/image-search-1628323821599.png",
         "enrolled":"6k+ enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Selfpaced"
     },
     {
         "id":10,
@@ -97,7 +106,8 @@
         "rating":4.2,
         "thumb":"https://i.ibb.co/K2kqCWm/image-search-1628323919682.png",
         "enrolled":"8k+ enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Live Class"
     },
     {
         "id":11,
@@ -107,17 +117,19 @@
         "rating":4,
         "thumb":"https://i.ibb.co/y5nvXwN/image-search-1628323891312.png",
         "enrolled":"452 enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Live Class"
     },
     {
         "id":12,
         "name":"CSPO® Certification Training",
         "category_id":2,
         "price":21999,
-        "rating":4.2,
+        "rating":4.4,
         "thumb":"https://i.ibb.co/7C8Q68b/image-search-1628323947547.png",
         "enrolled":"511 enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Live Class"
     },
     {
         "id":13,
@@ -126,7 +138,8 @@
         "price":17690,
         "rating":4.9,
         "enrolled":"164k+ enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Live Class"
     },
     {
         "id":14,
@@ -135,7 +148,8 @@
         "price":17690,
         "rating":4.5,
         "enrolled":"28k+ enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Live Class"
     },
     {
         "id":15,
@@ -144,7 +158,8 @@
         "price":17690,
         "rating":5,
         "enrolled":"7k+ enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Live Class"
     },
     {
         "id":16,
@@ -153,7 +168,8 @@
         "price":17690,
         "rating":4.4,
         "enrolled":"7k+ enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Live Class"
     },
     {
         "id":17,
@@ -162,7 +178,8 @@
         "price":17690,
         "rating":4.5,
         "enrolled":"8k+ enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Live Class"
     },
     {
         "id":18,
@@ -171,7 +188,8 @@
         "price":17690,
         "rating":4.5,
         "enrolled":"25k+ enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Live Class"
     },
     {
         "id":19,
@@ -180,7 +198,8 @@
         "price":17690,
         "rating":4.3,
         "enrolled":"2k+ enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Selfpaced"
     },
     {
         "id":20,
@@ -189,7 +208,8 @@
         "price":17690,
         "rating":4.4,
         "enrolled":"2k+ enrolled learners",
-        "type":"weekend/weekdays"
+        "type":"weekend/weekdays",
+		"learningType":"Selfpaced"
     },
     {
         "id":21,
@@ -510,8 +530,130 @@
         "enrolled":"877 enrolled learners",
         "type":"weekend/weekdays",
         "learningType":"Live Class"
+    },
+    {
+        "id":53,
+        "name":"Tableau Certification Training Course",
+        "category_id":6,
+        "price":17795,
+        "rating":5,
+        "enrolled":"34k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Live Class"
+    },
+    {
+        "id":54,
+        "name":"Microsoft Power BI Certification Training Course",
+        "category_id":6,
+        "price":17795,
+        "rating":4.2,
+        "enrolled":"19k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Live Class"
+    },
+    {
+        "id":55,
+        "name":"Microsoft BI Certification Training",
+        "category_id":6,
+        "price":17795,
+        "rating":4.1,
+        "enrolled":"13k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Live Class"
+    },
+    {
+        "id":56,
+        "name":"Pentaho BI Certification Training",
+        "category_id":6,
+        "price":17795,
+        "rating":4,
+        "enrolled":"4k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Selfpaced"
+    },
+    {
+        "id":57,
+        "name":"Advanced MS Excel 2016 Certification Training",
+        "category_id":6,
+        "price":17795,
+        "rating":4,
+        "enrolled":"9k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Selfpaced"
+    },
+    {
+        "id":58,
+        "name":"Selenium Certification Training Course",
+        "category_id":7,
+        "price":17795,
+        "rating":4.3,
+        "enrolled":"33k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Live Class"
+    },
+    {
+        "id":59,
+        "name":"Mobile App Testing Using Appium",
+        "category_id":7,
+        "price":17795,
+        "rating":4.2,
+        "enrolled":"2k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Live Class"
+    },
+    {
+        "id":60,
+        "name":"Performance Testing Using JMeter ",
+        "category_id":7,
+        "price":17795,
+        "rating":4.1,
+        "enrolled":"2k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Live Class"
+    },
+    {
+        "id":61,
+        "name":"Continuous Testing in DevOps",
+        "category_id":7,
+        "price":17795,
+        "rating":4.4,
+        "enrolled":"2k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Live Class"
+    },
+    {
+        "id":62,
+        "name":"Manual Testing Certification Training",
+        "category_id":7,
+        "price":17795,
+        "rating":4.5,
+        "enrolled":"5k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Live Class"
+    },
+    {
+        "id":63,
+        "name":"Software Testing Fundamentals Course",
+        "category_id":7,
+        "price":17795,
+        "rating":4.3,
+        "enrolled":"1k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Live Class"
+    },
+    {
+        "id":64,
+        "name":"Automation Testing using TestComplete 11.0",
+        "category_id":7,
+        "price":8999,
+        "rating":4.4,
+        "enrolled":"2k+ enrolled learners",
+        "type":"weekend/weekdays",
+        "learningType":"Selfpaced"
     }
-    //category 6 started soon...
+    //category 8 started soon....
+    
+
 
 
 ]
