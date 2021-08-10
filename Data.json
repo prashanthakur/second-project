@@ -15,6 +15,7 @@
         "category_id":1,
         "price":20000,
         "rating":4.3,
+        "thumb":"https://i.ibb.co/B2cLmgq/image-search-1628323362650.jpg",
         "enrolled":"4k+ enrolled learners",
         "type":"weekend/weekdays"
     },
@@ -24,6 +25,7 @@
         "category_id":1,
         "price":22495,
         "rating":4.1,
+        "thumb":"https://i.ibb.co/37Y3BqT/image-search-1628323255386.jpg"
         "enrolled":"5k+ enrolled learners",
         "type":"weekend/weekdays"
     },
@@ -33,6 +35,7 @@
         "category_id":1,
         "price":15299,
         "rating":4.3,
+        "thumb":"https://i.ibb.co/zXkShcm/image-search-1628323283618.png",
         "enrolled":"6k+ enrolled learners",
         "type":"weekend/weekdays"
     },
