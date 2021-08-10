@@ -5,6 +5,7 @@
         "category_id":1,
         "price":17690,
         "rating":4.5,
+		"thumb":"https://i.ibb.co/Ry9wy4Q/image-search-1628323234993.png",
         "enrolled":"98k+ enrolled learners",
         "type":"weekend/weekdays"
     },
@@ -251,16 +252,6 @@
     },
     {
         "id":28,
-        "name":"Apache Storm Certification Training",
-        "category_id":3,
-        "price":17690,
-        "rating":4,
-        "enrolled":"6k+ enrolled learners",
-        "type":"weekend/weekdays",
-        "learningType":"Selfpaced"
-    },
-    {
-        "id":29,
         "name":"Java Certification Training Course",
         "category_id":4,
         "price":17690,
@@ -270,7 +261,7 @@
         "learningType":"Live Class"
     },
     {
-        "id":30,
+        "id":29,
         "name":"Full Stack Web Development Internship Program",
         "category_id":4,
         "price":17690,
@@ -280,7 +271,7 @@
         "learningType":"Live Class"
     },
     {
-        "id":31,
+        "id":30,
         "name":"Spring Framework Certification Training",
         "category_id":4,
         "price":17690,
@@ -290,7 +281,7 @@
         "learningType":"Live Class"
     },
     {
-        "id":32,
+        "id":31,
         "name":"Python Scripting Certification Training",
         "category_id":4,
         "price":17690,
@@ -300,7 +291,7 @@
         "learningType":"Selfpaced"
     },
     {
-        "id":33,
+        "id":32,
         "name":"Microsoft .NET Framework Certification Training",
         "category_id":4,
         "price":17690,
@@ -310,7 +301,7 @@
         "learningType":"Selfpaced"
     },
     {
-        "id":34,
+        "id":33,
         "name":"Advanced Java Certification Training",
         "category_id":4,
         "price":17690,
@@ -320,7 +311,7 @@
         "learningType":"Selfpaced"
     },
     {
-        "id":35,
+        "id":34,
         "name":"Persistence with Hibernate Certification Training",
         "category_id":4,
         "price":17690,
@@ -330,7 +321,7 @@
         "learningType":"Selfpaced"
     },
     {
-        "id":36,
+        "id":35,
         "name":"Matering Magento for E-Commerce Certification Training",
         "category_id":4,
         "price":17690,
@@ -340,7 +331,7 @@
         "learningType":"Selfpaced"
     },
     {
-        "id":37,
+        "id":36,
         "name":"Microsoft SharePoint 2013 Certification Training",
         "category_id":4,
         "price":17690,
@@ -350,7 +341,7 @@
         "learningType":"Selfpaced"
     },
     {
-        "id":38,
+        "id":37,
         "name":"Mastering Perl Scripting Certification Training",
         "category_id":4,
         "price":17690,
@@ -360,7 +351,7 @@
         "learningType":"Selfpaced"
     },
     {
-        "id":39,
+        "id":38,
         "name":"PHP & MySQL with MVC Framewoks Certification Training",
         "category_id":4,
         "price":17690,
@@ -370,7 +361,7 @@
         "learningType":"Selfpaced"
     },
     {
-        "id":40,
+        "id":39,
         "name":"Mastering Joomla Certification Training",
         "category_id":4,
         "price":17690,
@@ -380,7 +371,7 @@
         "learningType":"Selfpaced"
     },
     {
-        "id":41,
+        "id":40,
         "name":"AWS Certification Training for Solutions Architect",
         "category_id":5,
         "price":17990,
@@ -390,7 +381,7 @@
         "learningType":"Live Class"
     },
     {
-        "id":42,
+        "id":41,
         "name":"Microsoft Azure Certification Training",
         "category_id":5,
         "price":17690,
@@ -400,7 +391,7 @@
         "learningType":"Live Class"
     },
     {
-        "id":43,
+        "id":42,
         "name":"Google Cloud Certification Training (GCP)",
         "category_id":5,
         "price":17995,
@@ -410,7 +401,7 @@
         "learningType":"Live Class"
     },
     {
-        "id":44,
+        "id":43,
         "name":"Salesforce Certification Training",
         "category_id":5,
         "price":17995,
@@ -420,7 +411,7 @@
         "learningType":"Live Class"
     },
     {
-        "id":45,
+        "id":44,
         "name":"Microservices Certification Training",
         "category_id":5,
         "price":17690,
@@ -430,7 +421,7 @@
         "learningType":"Live Class"
     },
     {
-        "id":46,
+        "id":45,
         "name":"AWS Development Certification Training",
         "category_id":5,
         "price":17690,
@@ -440,7 +431,7 @@
         "learningType":"Live Class"
     },
     {
-        "id":47,
+        "id":46,
         "name":"Salesforce Admin 201 Certification Training",
         "category_id":5,
         "price":17690,
@@ -450,7 +441,7 @@
         "learningType":"Live Class"
     },
     {
-        "id":48,
+        "id":47,
         "name":"IoT Certification Training on Azure",
         "category_id":5,
         "price":17690,
@@ -460,7 +451,7 @@
         "learningType":"Live Class"
     },
     {
-        "id":49,
+        "id":48,
         "name":"Salesforce Platform Developer 1 Certification Train",
         "category_id":5,
         "price":17990,
@@ -470,7 +461,7 @@
         "learningType":"Live Class"
     },
     {
-        "id":50,
+        "id":49,
         "name":"AWS SysOps Administrator Certification Training",
         "category_id":5,
         "price":16015,
@@ -500,7 +491,7 @@
         "learningType":"Selfpaced"
     },
     {
-        "id":51,
+        "id":52,
         "name":"Microsoft Azure DevOps Solutions Certification",
         "category_id":5,
         "price":16015,
